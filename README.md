@@ -1,9 +1,12 @@
 # python_reg
 
 🏠 House Price Prediction using Linear Regression
-This project explores a real estate dataset and builds a regression model to predict housing prices based on various socioeconomic and geographical features. The notebook includes EDA, data preprocessing, and model evaluation using key regression metrics.
+This project explores a real estate dataset and builds a regression model to predict housing prices based on various socioeconomic and geographical features. 
+
+The notebook includes EDA, data preprocessing, and model evaluation using key regression metrics.
 
 📁 Project Structure
+
 ANWAR_DATA_HOUSE.ipynb: The main Jupyter notebook for:
 
 Exploratory Data Analysis
@@ -15,6 +18,7 @@ Linear Regression modeling
 Model evaluation and residual diagnostics
 
 📦 Dataset
+
 Source: housing.csv
 
 Features include:
@@ -32,6 +36,7 @@ area_population: Population of the area
 price: Target variable – price of the house
 
 🧠 Model
+
 Model Used: LinearRegression() from scikit-learn
 
 Training/Test Split: 80/20
@@ -47,6 +52,7 @@ Root Mean Squared Error (RMSE)
 Mean Absolute Error (MAE)
 
 📊 Visualizations
+
 Distribution and boxplots for features
 
 Residual plot for model diagnostic
