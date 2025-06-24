@@ -1,4 +1,3 @@
-# python_reg
 
 🏠 House Price Prediction using Linear Regression
 This project explores a real estate dataset and builds a regression model to predict housing prices based on various socioeconomic and geographical features. 
